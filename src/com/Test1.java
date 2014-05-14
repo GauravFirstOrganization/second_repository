@@ -4,6 +4,6 @@ public class Test1 {
 
 	static
 	{
-		System.out.println("hello ");
+		System.out.println("hello Debarati");
 	}
 }
